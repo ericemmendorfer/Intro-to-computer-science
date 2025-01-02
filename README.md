@@ -10,11 +10,7 @@ Tech Stack: Java</details>
 
 ## Homework and Coursework
 
-### Homework 0, Hello World!
-
-### Homework 1, 
-<details> <summary>Description</summary>
-</details>
+### Homework 1, Hello World!
 
 ### Homework 2, Five Basic Java Excersizes
 <details> <summary>Description</summary>
