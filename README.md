@@ -46,10 +46,15 @@ Tech Stack: Java</details>
 
 ### Quiz 1, Standard Quiz
 Paper in class quiz reviewing basic concepts of the first half of the semester
-### Quiz 2, DNA Strand Validator 
-<details> <summary>Description</summary>
-</details>
 
-### [Quiz 3, TicTacToe (one and two player)](https://github.com/ericemmendorfer/Intro-to-computer-science/tree/main/Quiz)
-<details> <summary>Description</summary>
-</details>
+### Quiz 2, DNA Strand Validator
+  [Assignment Description](https://github.com/ericemmendorfer/Intro-to-computer-science/blob/main/Quiz/Quiz2.FA21.pdf)  
+  
+  [Code](https://github.com/ericemmendorfer/Intro-to-computer-science/blob/main/Quiz/DNABarcodeGenerator.java) 
+
+
+### Quiz 3, TicTacToe (one and two player)
+  [Assignment Description](https://github.com/ericemmendorfer/Intro-to-computer-science/blob/main/Quiz/Quiz3.pdf)  
+  
+  [Code](https://github.com/ericemmendorfer/Intro-to-computer-science/blob/main/Quiz/TicTacToe.java)
+
