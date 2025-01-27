@@ -10,37 +10,37 @@ Tech Stack: Java</details>
 
 ## Homework and Coursework
 
-### Homework 1, Hello World!
+### [Homework 1, Hello World!](https://github.com/ericemmendorfer/Intro-to-computer-science/tree/main/Homework1)
 
-### Homework 2, Five Basic Java Excersizes
+### [Homework 2, Five Basic Java Excersizes](https://github.com/ericemmendorfer/Intro-to-computer-science/tree/main/Homework2)
 <details> <summary>Description</summary>
 </details>
 
-### Homework 3, Seven Basic Java Excersizes
+### [Homework 3, Seven Basic Java Excersizes](https://github.com/ericemmendorfer/Intro-to-computer-science/tree/main/Homework3)
 <details> <summary>Description</summary>
 </details>
 
-### Homework 4, Seven Basic Java Excersizes
+### [Homework 4, Seven Basic Java Excersizes](https://github.com/ericemmendorfer/Intro-to-computer-science/tree/main/Homework4)
 <details> <summary>Description</summary>
 </details>
 
-### Homework 5, Four Basic Java Excersizes
+### [Homework 5, Four Basic Java Excersizes](https://github.com/ericemmendorfer/Intro-to-computer-science/tree/main/Homework5)
 <details> <summary>Description</summary>
 </details>
 
-### Homework 6, Shifting Elements in a 2D Array
+### [Homework 6, Shifting Elements in a 2D Array](https://github.com/ericemmendorfer/Intro-to-computer-science/tree/main/Homework6)
 <details> <summary>Description</summary>
 </details>
 
-### Homework 7, Three Basic Java Excersizes
+### [Homework 7, Three Basic Java Excersizes](https://github.com/ericemmendorfer/Intro-to-computer-science/tree/main/Homework7)
 <details> <summary>Description</summary>
 </details>
 
-### Homework 8, Four Basic Java Programs
+### [Homework 8, Four Basic Java Programs](https://github.com/ericemmendorfer/Intro-to-computer-science/tree/main/Homework8)
 <details> <summary>Description</summary>
 </details>
 
-### Homework 9, Java Implementation of Class Designs
+### [Homework 9, Java Implementation of Class Designs](https://github.com/ericemmendorfer/Intro-to-computer-science/tree/main/Homework9)
 <details> <summary>Description</summary>
 </details>
 
@@ -50,6 +50,6 @@ Paper in class quiz reviewing basic concepts of the first half of the semester
 <details> <summary>Description</summary>
 </details>
 
-### Quiz 3, TicTacToe (one and two player)
+### [Quiz 3, TicTacToe (one and two player)](https://github.com/ericemmendorfer/Intro-to-computer-science/tree/main/Quiz)
 <details> <summary>Description</summary>
 </details>
